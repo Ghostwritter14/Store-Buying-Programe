@@ -1,0 +1,8 @@
+user can see the catalog of products
+user can buy a product
+user will get a pdf-generated receipt of payment
+
+
+Classes:
+    Article
+    Receipt

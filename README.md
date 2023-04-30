@@ -1,0 +1,2 @@
+# What is this project about
+This is a small programme in which an user can view a catalog of products, buy a product and will get a pdf receipt for payment. The scope here is limited to offline payments.
